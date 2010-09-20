@@ -24,6 +24,10 @@ Tata is the PC version of this part.
 
     git clone git://github.com/happypeter/tinylion.git
 
+### snapshots
+
+view some [pics][snapshots.html]
+
 <p><br /><b>Developer Contact Information:</b></p>
 
 <blockquote>
