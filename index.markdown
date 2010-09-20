@@ -26,7 +26,7 @@ Tata is the PC version of this part.
 
 ### snapshots
 
-view some [pics][snapshots.html]
+view some [pics](snapshots.html)
 
 <p><br /><b>Developer Contact Information:</b></p>
 
